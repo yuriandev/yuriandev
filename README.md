@@ -3,7 +3,11 @@
 ## 👍 Junior JavaScript Developer.
 
 ### I’m interested in web development and currently learning web technologies.
----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriandev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 Contacts:
 
